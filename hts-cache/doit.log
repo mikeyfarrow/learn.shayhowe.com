@@ -1,0 +1,8 @@
+-qwC2t%Pxs2u1%s%uN100I0%I0p7DaK0c8H0%kQA250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "en, *" http://learn.shayhowe.com/ -O1 "U:\learn.shayhowe\shayhowe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Tue, 21 Feb 2017 13:54:17, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
